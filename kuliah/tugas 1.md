@@ -1,0 +1,4 @@
+Konfigurasi SSH diperlukan untuk memberikan akses kepada pengguna (pemilik akun) agar dapat melakukan aktifitas menambahkan file atau mengupload file dan melakukan aktifitas perubahan lainnya kedalam github melalui direktori lokal atau dengan kata lain adalah pengganti remote login.
+Kemudian membuat repository berguna untuk menyimpan banyak file, yang dimana file tersebut dapat dimodifikasi.
+Git push digunakan untuk mengirimkan file yang telah di add ke dalam github yang kemudian akan disimpan di sistem cloud computing dan masuk kedalam repository.
+Git pull digunakan untuk menarik perubahan yang telah dilakukan terhadap file yang berada pada repository.
